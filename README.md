@@ -1,48 +1,27 @@
- Hi, I'm Eugine Sulumet Anyir 
- 
-Aspiring **Data Scientist / Data Analyst**  
-Passionate about turning data into insights  
-Strong in Python, SQL, and data visualization  
-Based in Nairobi, Kenya
+** Hi, I'm Eugine Sulumet** 
+Data Scientist · Data Analyst · BI Enthusiast
+Turning data into insights, models, and decisions.
 
-##  About Me
+**About Me**
 I am a data-driven problem solver with hands-on experience in data analysis, data wrangling, web scraping, and building data-backed systems. I enjoy exploring datasets, uncovering patterns, and presenting insights in a clear and actionable way.
-
 I have worked on academic and personal projects involving real-world datasets, web data extraction, and full-stack systems that integrate data storage and reporting.
 
-## Skills & Tools
-- Languages:Python, SQL, PHP, JavaScript  
-- Data Analysis:Pandas, NumPy, Matplotlib, Seaborn  
-- Web Scraping:BeautifulSoup, Requests  
-- Databases:MySQL  
-- Tools: Git, GitHub, Jupyter Notebook, VS Code  
-- Web:HTML, CSS, Django (basic), React (basic)
+**Tech Stack**
+-Languages: Python · SQL · HTML · CSS · JavaScript
+-Data Science: Pandas · NumPy · Scikit-learn · Matplotlib
+-Business Intelligence: Power BI · DAX · Tableau
+-AI / Machine Learning: Machine Learning · Deep Learning · NLP · Generative AI · RAG
+-Tools & Platforms: Git · GitHub · Jupyter Notebook · Google Colab · VS Code
 
-## Featured Projects
-- Titanic Exploratory Data Analysis
-- Web Scraping Projects
-- Water Billing & Management System  
-- Sneakers E-Commerce Website  
-- E-Commerce Web Application  
-- Data Science Capstone Project
+**Featured Projects**
+- Uber Trip Data Wrangling -Python-based data wrangling and exploratory analysis of Uber trip data. Python Pandas NumPy EDA Visualization
+- Walmart Sales Dashboard -Interactive Power BI dashboard analyzing sales performance, store trends, and holiday effects. Power BI DAX Data Modelling Business Intelligence
+- HR Analytics -Data visualization project exploring workforce and employee trends. Tableau Data Analysis Visualization
+- Generative AI & RAG -Document-based question answering using retrieval-augmented generation. Python LangChain FAISS Embeddings NLP
+- Housing Price Prediction -Regression-based machine learning project predicting housing prices. Python Scikit-learn Feature Engineering Regression
+- Titanic Exploratory Data Analysis - a structured EDA workflow, combining statistical analysis with data visualization to derive meaningful insights.
 
-(Each project includes clear documentation and insights.)
-
-##  Connect With Me
+**Connect With Me**
 GitHub: https://github.com/sulumeteugine18  
 Email: Sulumeteugine@gmail.com
-⭐Feel free to explore my repositories and connect!
-<!--
-**Sulumeteugine18/Sulumeteugine18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio: https://sulumeteugine18.github.io/eugine-portfolio/
