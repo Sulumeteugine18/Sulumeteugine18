@@ -1,14 +1,19 @@
 ** Hi, I'm Eugine Sulumet** 
+
 Data Scientist · Data Analyst · BI Enthusiast
 Turning data into insights, models, and decisions.
 
 **About Me**
+
 I am a data-driven problem solver with hands-on experience in data analysis, data wrangling, web scraping, and building data-backed systems. I enjoy exploring datasets, uncovering patterns, and presenting insights in a clear and actionable way.
 I have worked on academic and personal projects involving real-world datasets, web data extraction, and full-stack systems that integrate data storage and reporting.
 
 **Tech Stack**
+
 -Languages: Python · SQL · HTML · CSS · JavaScript
+
 -Data Science: Pandas · NumPy · Scikit-learn · Matplotlib
+
 -Business Intelligence: Power BI · DAX · Tableau
 -AI / Machine Learning: Machine Learning · Deep Learning · NLP · Generative AI · RAG
 -Tools & Platforms: Git · GitHub · Jupyter Notebook · Google Colab · VS Code
