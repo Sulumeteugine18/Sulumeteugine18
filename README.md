@@ -1,4 +1,4 @@
-** Hi, I'm Eugine Sulumet** 
+**Hi there, I'm Eugine Sulumet Anyir**
 
 Data Scientist · Data Analyst · BI Enthusiast
 Turning data into insights, models, and decisions.
